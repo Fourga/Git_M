@@ -1,0 +1,9 @@
+Hyper-V : Qu'est-ce que c'est ?
+Hyper-V est un hyperviseur développé par Microsoft qui permet de créer et de 
+gérer des machines virtuelles (VM) sur un système Windows. Il est intégré dans
+Windows Server et certaines éditions de Windows 10/11 Pro et Enterprise.
+
+Hyper-V fonctionne comme une couche entre le matériel et les systèmes 
+d’exploitation, permettant d’exécuter plusieurs OS (Windows, Linux, etc.) 
+sur un même serveur ou PC sans qu’ils interagissent directement avec la 
+machine physique.
